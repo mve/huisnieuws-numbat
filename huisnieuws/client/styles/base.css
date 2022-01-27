@@ -1,0 +1,81 @@
+* {
+  font-family: 'Rubik', sans-serif;
+}
+
+.is-darkened {
+  box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 55%);
+}
+
+.z-negative {
+  z-index: -1;
+}
+
+.drop-shadow-none:focus {
+  box-shadow: none !important;
+}
+
+/* @tailwind screens;
+@tailwind variants; */
+.window__screen {
+  @apply flex flex-col items-center justify-center min-h-screen min-w-full bg-gray-50;
+}
+
+textarea::-webkit-scrollbar {
+  width: 5px;
+}
+
+textarea::-webkit-scrollbar-button {
+  background-color: white;
+}
+
+textarea::-webkit-scrollbar-thumb {
+  background-color: black;
+}
+
+main {
+  @apply mt-20 ;
+}
+
+.card-title {
+  @apply text-white text-[22px] sm:text-[28px] font-bold;
+}
+
+.input-default::placeholder, .input-textarea-default::placeholder {
+  opacity: .5;
+}
+
+.input-default, .input-textarea-default {
+  @apply shadow-sm focus:ring-blue-500 focus:border-blue-500 mt-1 block w-full sm:text-sm border border-gray-300 rounded-md p-2
+}
+
+.input-default {
+  @apply w-[22rem];
+}
+
+.input-textarea-default {
+  @apply w-full h-40 min-h-[6rem] ;
+}
+
+.base-title {
+  @apply text-4xl font-bold mb-12 text-gray-800;
+}
+
+.base-container {
+  @apply container mx-auto px-4 flex flex-col;
+}
+
+.standard_subtext_input {
+  @apply text-left font-thin text-sm text-gray-400;
+}
+
+.input-default.red {
+  border-color: red;
+}
+
+.input-default.red:focus {
+  outline-color: red;
+}
+
+.mapboxgl-popup-close-button {
+  padding-right: 0.5rem;
+}

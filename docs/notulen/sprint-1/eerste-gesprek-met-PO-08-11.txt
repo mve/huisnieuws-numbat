@@ -1,0 +1,101 @@
+Meeting:
+Eerste gesprek met PO
+
+Datum:
+8-11-2021 13:00
+
+Aanwezigen:
+Maarten van der Leij (interviewer)
+Mike van Egmond (gespreksleider)
+Niels Bosman (interviewer)
+Albert Jan Nap (notulist
+Sander van Leer (PO)
+Helen Visser (skills docent)
+
+Onderwerpen
+
+-Algemeen
+Intro?
+Vragen beantwoorden om de backlog te vullen
+
+Korte intro project:
+locatie gebonden nieuws weergegeven 
+
+-Doelgroep
+Wat is de doelgroep?
+Antwoord: Volwassenen(30+) mensen die een vaste locatie hebben, huishoudens
+
+-Design
+Thema, kleurstelling, voorkeur platform:desktop,mobile,tablet?
+Antwoord: geen voorkeur, we mogen zelf alles ontwerpen
+Zou leuk zijn als je kan wisselen tussen verschillende thema's (dark/light mode) of lettertype groter
+platform: desktop en als 2e mobile
+
+-Features
+Waar ligt de belangrijkste prioriteit voor dit project?
+Antwoord: 
+1. belangrijkste feature: gebruiker kan postcode invullen en ziet nieuws die bij dat postcode hoort
+2. inloggen 
+3. aanmelden bij meerdere wijken
+4. reacties
+5. gebruikers zelf nieuws posten
+
+Wat moet een gebruiker kunnen doen op de website?
+Antwoord: postcode invullen later misschien nieuws posten en reageren
+Wie mag er allemaal posten op de website?
+Antwoord:
+bijv geverifieerde gebruikers die iets mogen posten 
+Hoe bepaal je wie er mag posten???
+Antwoord: 
+bijv kvk check zodat een bedrijf nieuws kan posten
+simpele check in de database
+brief naar een gebruiker sturen
+lastig om te managen
+Moeten gebruikers zich kunnen aanmelden bij een wijk?
+Antwoord: ja kan
+Kan data vanaf elke postcode bekeken worden?
+Antwoord: iedereen kan alle informatie bekijken(zolang er geen interactie met gebruikers is)
+
+
+opmerking
+aanmelden hoeft niet
+heel veel ideeën om gebruikers te verifiëren en ideeën voor nieuws posten(wijken selecteren waarin je nieuws wil posten)
+een user component waarin je wijken kan selecteren
+
+-Technisch
+Met welke technieken moet het project worden gemaakt? (Node.js, React?)
+Antwoord:
+als het binnen de techniek web applicaties valt dan mag alles
+
+MENT is goedgekeurd
+	
+Moet de app live komen te staan op een webserver?
+Antwoord: Het moet getoond worden aan een werkgever
+bijv via netlify heroku
+wenselijk om de live te zetten
+Sander komt hier later op terug
+Is het een idee om het inloggen via oAuth te laten lopen (inloggen met google / facebook)
+Antwoord: als we dit gaan implementeren dan is oAuth erg handig
+Wat betekent multi-level tagging?
+Antwoord: interessant in een latere sprint
+
+
+Tips:
+voorzitter aangeven hoeveel tijd er nog over is
+rollen aangeven voor duidelijkheid
+
+
+Vervolg gesprek:
+
+Backlog bespreken
+actiepunt: user stories opstellen, backlog vullen voor het hele project
+als je user story maakt, denk na wat de meest simpele oplossing, later kan je het dan nog uitbreiden
+
+Risico's
+hoe verwerken we postcodes
+is het mogelijk om postcodes te verwerken naar straatnamen en te koppelen aan een wijk
+nestjs en tailwint leren
+
+maandagmiddag sprintplanning (fysiek)
+
+

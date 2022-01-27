@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "619e02dfea5f6b543eed91ea",
+    "name": "Albert Jan Nap",
+    "email": "aj12.nap@gmail.com",
+    "imageUrl": "https://lh3.googleusercontent.com/a/AATXAJxIDaCdxHHApl4KdGO_QMqUvNb2tVBVVONMQTQc=s96-c",
+    "role": "poster"
+  },
+  {
+    "_id": "619e02dfea5f6b543eed91eb",
+    "name": "Maarten van der Lei",
+    "email": "qmaartenenzo@gmail.com",
+    "imageUrl": "https://lh3.googleusercontent.com/ogw/ADea4I5YPXMmSmvzU3rUCQeZWtRFlV9uldv78ciVGT0-Pg=s32-c-mo",
+    "role": "admin"
+  },
+  {
+    "_id": "619e02dfea5f6b543eed91ec",
+    "name": "Niels Bosman",
+    "email": "nielsbosman333@gmail.com",
+    "imageUrl": "https://lh3.googleusercontent.com/ogw/ADea4I6SUuoqKWnu1VsRHYuM36rQUaElVcdZxUprTQpvhg=s32-c-mo",
+    "role": "admin"
+  },
+  {
+    "_id": "619e02dfea5f6b543eed91ed",
+    "name": "Mike van Egmond",
+    "email": "lolmikelol7@gmail.com",
+    "imageUrl": "https://lh3.googleusercontent.com/ogw/ADea4I4Yg31mB_cQYaW05lRFrZKr9mE7fVJxjMrKsT9cVQ=s83-c-mo",
+    "role": "user"
+  },
+  {
+    "_id": "61af2f888a28c74f146c95a2",
+    "name": "Test Poster",
+    "email": "testemail1@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "poster"
+  },
+  {
+    "_id": "61b08dd7f8f7bb51a63a392c",
+    "name": "Test User",
+    "email": "testemail2@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "user"
+  },
+  {
+    "_id": "61bd1be4105ecbab1e1d44c9",
+    "name": "Test User 2",
+    "email": "testemail23@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "user"
+  },
+  {
+    "_id": "61c0617f037a594fbd9d39df",
+    "name": "Test User",
+    "email": "testemail3@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "user"
+  },
+  {
+    "_id": "61c06183a419e94065b76d0f",
+    "name": "Test User",
+    "email": "testemail4@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "user"
+  },
+  {
+    "_id": "61c06186aefcde8862647edf",
+    "name": "Test User",
+    "email": "testemail5@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "user"
+  },
+  {
+    "_id": "61c06178b966d0ebe443b384",
+    "name": "Test User",
+    "email": "testemail6@test.mail.com",
+    "imageUrl": "https://monstar-lab.com/global/wp-content/uploads/sites/11/2019/04/male-placeholder-image.jpeg",
+    "role": "user"
+  }
+]

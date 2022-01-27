@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Volksgezondheid",
+    "color": "#14b8a6"
+  },
+  {
+    "name": "Corona",
+    "color": "#6366f1"
+  },
+  {
+    "name": "Sport",
+    "color": "#E54616"
+  },
+  {
+    "name": "Politiek",
+    "color": "#760F00"
+  },
+  {
+    "name": "Technologie",
+    "color": "#00A5E3"
+  }
+]
